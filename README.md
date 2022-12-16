@@ -27,9 +27,16 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/adobeillustrator" />
 </p>
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jkvithanage/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a>
+  <a href="mailto:jkvithana@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail" /></a>
+</p>
+<h3 align="center">GitHub Stats</h3>
 <p align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=jkvithanage" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkvithanage&layout=compact" />
+  <img height="150px" src="https://streak-stats.demolab.com?user=jkvithanage&border_radius=2" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jkvithanage&color=1976d2&style=for-the-badge">
