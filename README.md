@@ -6,5 +6,5 @@ Hey there, my name is Janaka and I'm a passionate software developer. I graduate
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jkvithanage" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkvithanage&&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkvithanage&layout=compact" />
 </a>
