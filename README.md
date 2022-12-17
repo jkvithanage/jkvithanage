@@ -16,29 +16,7 @@
 </p>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/ruby" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/rubyonrails" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-  <img height="32" width="32" src="https://skillicons.dev/icons?i=java&theme=light" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/sass" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/angular" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/github" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/heroku" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/postman" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/adobeillustrator" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,javascript,typescript,java,html,css,sass,bootstrap,tailwind,angular,nodejs,express,postgres,sqlite,mongodb,git,github,heroku,vscode,figma,ps,ai&perline=23" />
 </p>
 <h3 align="center">Connect with me</h3>
 <p align="center">
