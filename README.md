@@ -2,6 +2,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1976D2&center=true&vCenter=true&width=435&lines=Passionate+Software+Developer;Le+Wagon+Bootcamp+Graduate;%E2%9D%A4%EF%B8%8F+Ruby+on+Rails" alt="Typing SVG" />
 </p>
+<p align="center">
+  📍 Based in Melbourne, Australia
+</p>
+<p align="center">
+  👨‍💻 Full stack web developer
+</p>  
+<p align="center">  
+  🎓 Le Wagon Graduate | BSc Eng. in Chemical Engineering
+</p>  
+<p align="center">  
+  ➡️ Currently learning React and working on my own projects
+</p>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/ruby" />
