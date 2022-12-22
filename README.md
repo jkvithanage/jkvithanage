@@ -9,7 +9,7 @@
   👨‍💻 Full stack web developer
 </p>  
 <p align="center">  
-  🎓 Le Wagon Graduate | BSc Eng. in Chemical Engineering
+  🎓 Le Wagon Graduate | BSc in Chemical Engineering
 </p>  
 <p align="center">  
   ➡️ Currently learning React while working on my own projects
