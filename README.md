@@ -27,7 +27,6 @@
 <p align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=jkvithanage" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkvithanage&layout=compact" />
-  <img height="150px" src="https://streak-stats.demolab.com?user=jkvithanage&border_radius=2" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jkvithanage&color=1976d2&style=for-the-badge">
