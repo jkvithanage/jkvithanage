@@ -19,14 +19,14 @@
   <img src="https://skillicons.dev/icons?i=ruby,rails,javascript,typescript,java,html,css,sass,bootstrap,tailwind,angular,nodejs,express,postgres,sqlite,mongodb,git,github,heroku,vscode,figma,ps,ai&perline=23" />
 </p>
 <h3 align="center">Connect with me</h3>
-<p align="center">
+<a align="center">
   <a href="https://www.linkedin.com/in/jkvithanage/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a>
   <a href="mailto:jkvithana@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail" /></a>
 </p>
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=jkvithanage" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkvithanage&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jkvithanage" style="max-width: 100%;" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkvithanage&layout=compact" style="max-width: 100%;" height="150em" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jkvithanage&color=1976d2&style=for-the-badge">
