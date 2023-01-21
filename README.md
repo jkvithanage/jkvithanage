@@ -25,9 +25,10 @@
 </p>
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkvithanage" style="max-width: 100%;" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkvithanage&layout=compact" style="max-width: 100%;" height="150px" />
+  <img src="https://readme-stats.jonas-bernard.dev/api?username=jkvithanage" style="max-width: 100%;" height="150px" />
+  <img src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=jkvithanage&layout=compact" style="max-width: 100%;" height="150px" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jkvithanage&color=1976d2&style=for-the-badge">
 </p>
+
