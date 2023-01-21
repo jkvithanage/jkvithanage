@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=ruby,rails,javascript,typescript,java,html,css,sass,bootstrap,tailwind,angular,nodejs,express,postgres,sqlite,mongodb,git,github,heroku,vscode,figma,ps,ai&perline=23" />
 </p>
 <h3 align="center">Connect with me</h3>
-<a align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/jkvithanage/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a>
   <a href="mailto:jkvithana@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail" /></a>
 </p>
