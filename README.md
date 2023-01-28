@@ -10,9 +10,6 @@
 </p>  
 <p align="center">  
   🎓 Le Wagon Graduate | BSc in Chemical Engineering
-</p>  
-<p align="center">  
-  ➡️ Currently learning testing with RSpec while working on my own projects
 </p>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
