@@ -6,10 +6,10 @@
   📍 Based in Melbourne, Australia
 </p>
 <p align="center">
-  👨‍💻 Full stack web developer
+  👨‍💻 Full stack developer
 </p>  
 <p align="center">  
-  🎓 Le Wagon Graduate | BSc in Chemical Engineering
+  🎓 Le Wagon graduate | BSc in Chemical Engineering
 </p>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
