@@ -1,19 +1,16 @@
 <h1 align="center">Hi there, I'm Janaka 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1976D2&center=true&vCenter=true&width=435&lines=Passionate+Software+Developer;Le+Wagon+Bootcamp+Graduate;%E2%9D%A4%EF%B8%8F+Ruby+on+Rails" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Full+Stack+Developer;Ruby+on+Rails;React;Laravel" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   📍 Based in Melbourne, Australia
-</p>
-<p align="center">
-  👨‍💻 Full stack developer
-</p>  
+</p> 
 <p align="center">  
   🎓 Le Wagon Graduate | Bachelor's in Chemical Engineering | Master's in Business Information Systems
 </p>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,javascript,typescript,java,html,css,sass,bootstrap,tailwind,angular,nodejs,express,postgres,sqlite,mongodb,git,github,heroku,vscode,figma,ps,ai&perline=23" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,javascript,react,laravel,php,java,html,css,sass,bootstrap,tailwind,postgres,sqlite,mysql,docker,git,github,heroku,aws,figma,ps&perline=23" />
 </p>
 <h3 align="center">Connect with me</h3>
 <p align="center">
