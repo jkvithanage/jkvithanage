@@ -9,7 +9,7 @@
   👨‍💻 Full stack developer
 </p>  
 <p align="center">  
-  🎓 Le Wagon graduate | BSc in Chemical Engineering
+  🎓 Le Wagon Graduate | Bachelor's in Chemical Engineering | Master's in Business Information Systems
 </p>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
